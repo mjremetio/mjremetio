@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;Server%20Infrastructure%20Specialist;LMS%20&%20CMS%20Expert;Marketing%20Automation%20Engineer;Open%20to%20Freelance%20Projects!&center=true&width=800&height=45" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="100" />
-</p>
 
 <p align="center">
 Versatile <strong>Full-Stack Web Developer</strong> with 5+ years of experience in crafting modern, scalable web apps, building infrastructure, and integrating CRMs and LMS platforms. Passionate about full-cycle development — from wireframes and APIs to deployment and automation.

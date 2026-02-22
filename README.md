@@ -19,7 +19,7 @@ Versatile <strong>Full-Stack Web Developer</strong> with 5+ years of experience 
 - 🎓 **CMS & LMS:** Moodle LMS, TeamSite, WordPress  
 - 📊 **CRM & Marketing:** Salesforce, GoHighLevel, HubSpot, Zapier, Google Ads & Analytics  
 - 🛢 **Databases:** MySQL, PostgreSQL, MongoDB  
-- 🛠 **Tools & Practices:** Git/GitHub, Bitbucket, Agile, Scrum, Jira, Trello, Figma
+- 🛠 **Tools & Practices:** Git/GitHub, Bitbucket, Agile, Scrum, Jira, Trello, Figma, n8m, ClaudeCode, Codex, Manus, Replit, Lovable
 
 ---
 

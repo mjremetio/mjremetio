@@ -6,7 +6,7 @@
 
 
 <p align="center">
-Versatile <strong>Full-Stack Web Developer</strong> with 5+ years of experience in crafting modern, scalable web apps, building infrastructure, and integrating CRMs and LMS platforms. Passionate about full-cycle development — from wireframes and APIs to deployment and automation.
+Versatile <strong>Full-Stack Web Developer</strong> with 7 years of experience in crafting modern, scalable web apps, building infrastructure, and integrating CRMs and LMS platforms. Passionate about full-cycle development — from wireframes and APIs to deployment and automation.
 </p>
 
 ---
